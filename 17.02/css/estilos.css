@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+body{
+	background-color:#F7F9AC;
+	font-size: 14px;
+	color: navy;
+	font-family: verdana;
+}
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	color:#003236;
+}
+a{
+	text-decoration: none;
+}
+
+.blocoDiv {
+	background-color: #740001;
+	margin: 10px 20px ;
+}
+
+.corpoDoTexto{
+	text-align: justify;
+	text-indent: 25px;
+	letter-spacing: 2px;
+	margin: 10px;
+}
+
+.corpoDoTexto a{
+	color:#740001;
+}
+
+.corpoDoTexto2{
+	text-align: justify;
+	text-indent: 25px;
+	letter-spacing: 2px;
+}
+.corpoDoTexto2 a{
+	color:#BBF918;
+}
+/* margin:
+pode ser lido da seguinte forma:
+margin-top
+margin-right
+margin-bottom
+margin-left  */
